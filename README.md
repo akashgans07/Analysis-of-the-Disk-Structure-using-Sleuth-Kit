@@ -72,7 +72,10 @@ fls.exe -r -o 2048 C:\forensics\disk.dd
 icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
+
 Disk Structure Analysis Results
+
+
 <img width="625" height="410" alt="lab 2 photo 1" src="https://github.com/user-attachments/assets/d8494076-30a7-42ec-bd77-b9904fbf660c" />
 <img width="518" height="461" alt="lab 2 photo 2" src="https://github.com/user-attachments/assets/ad792ff1-b6d5-489b-906f-05d6858fad0f" />
 <img width="637" height="462" alt="lab 2 photo 3" src="https://github.com/user-attachments/assets/c7e4e0ce-a898-412d-afd7-ac9ba8f156cf" />
